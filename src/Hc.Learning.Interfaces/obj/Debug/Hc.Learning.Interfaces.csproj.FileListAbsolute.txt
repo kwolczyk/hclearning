@@ -1,0 +1,6 @@
+E:\Drive\HeadChannel\Learning\HC.Learning\Hc.Learning.Interfaces\bin\Debug\Hc.Learning.Interfaces.exe.config
+E:\Drive\HeadChannel\Learning\HC.Learning\Hc.Learning.Interfaces\bin\Debug\Hc.Learning.Interfaces.exe
+E:\Drive\HeadChannel\Learning\HC.Learning\Hc.Learning.Interfaces\bin\Debug\Hc.Learning.Interfaces.pdb
+E:\Drive\HeadChannel\Learning\HC.Learning\Hc.Learning.Interfaces\obj\Debug\Hc.Learning.Interfaces.csprojResolveAssemblyReference.cache
+E:\Drive\HeadChannel\Learning\HC.Learning\Hc.Learning.Interfaces\obj\Debug\Hc.Learning.Interfaces.exe
+E:\Drive\HeadChannel\Learning\HC.Learning\Hc.Learning.Interfaces\obj\Debug\Hc.Learning.Interfaces.pdb

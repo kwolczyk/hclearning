@@ -1,0 +1,6 @@
+E:\Drive\HeadChannel\Learning\Hc.Learning\Hc.Learning.Introduction\bin\Debug\Hc.Learning.Introduction.exe.config
+E:\Drive\HeadChannel\Learning\Hc.Learning\Hc.Learning.Introduction\bin\Debug\Hc.Learning.Introduction.exe
+E:\Drive\HeadChannel\Learning\Hc.Learning\Hc.Learning.Introduction\bin\Debug\Hc.Learning.Introduction.pdb
+E:\Drive\HeadChannel\Learning\Hc.Learning\Hc.Learning.Introduction\obj\Debug\Hc.Learning.Introduction.csprojResolveAssemblyReference.cache
+E:\Drive\HeadChannel\Learning\Hc.Learning\Hc.Learning.Introduction\obj\Debug\Hc.Learning.Introduction.exe
+E:\Drive\HeadChannel\Learning\Hc.Learning\Hc.Learning.Introduction\obj\Debug\Hc.Learning.Introduction.pdb
